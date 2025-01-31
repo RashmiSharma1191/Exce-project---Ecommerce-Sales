@@ -10,15 +10,23 @@ the effectiveness of their strategies.
 ## Main Objectives:
 
 -Identify key markets to better target customers.
+
 -Understand consumer behavior by analyzing product preferences in different states to offer targeted discounts.
+
 -Determine preferred payment methods for transactions.
 
 ## Insights Gained:
 
 -Peak purchasing periods.
+
 -Highest profit categories, with a focus on 'Technology.'
+
 -Sales and profit analysis for informed decision-making.
+
 -Year-over-year sales, profit, quantity, and order trends.
+
 -Top 10 subcategories by sales.
+
 -States with the highest number of sales and orders.
+
 -Seasonal sales trends.

@@ -1,32 +1,38 @@
-# Excel report on E-commerce Sales Analysis
+🧾 Excel Report on E-commerce Sales Analysis
 
-An E-commerce Sales Dashboard on Excel visually represents key sales metrics and data. 
-It is used to track the performance of sales functions and provide insights into trends and patterns. 
-The dashboard is created by gathering sales data, cleaning and organizing it, creating charts and
-pivot tables, customizing the visual appearance, and regularly updating it with fresh data. With 
-an E-commerce Sales Dashboard on Excel, sales professionals can make informed decisions and evaluate 
-the effectiveness of their strategies.
+An E-commerce Sales Dashboard built in Microsoft Excel that visually represents key sales metrics and business insights.
+This dashboard helps track sales performance, identify trends, and uncover opportunities for business growth.
 
-## Main Objectives:
+It involves data collection, cleaning, organization, visualization using charts and pivot tables, and periodic updates for accurate reporting.
+With this dashboard, sales teams and analysts can make data-driven decisions to improve strategies and performance.
 
--Identify key markets to better target customers.
+🎯 Main Objectives
 
--Understand consumer behavior by analyzing product preferences in different states to offer targeted discounts.
+- Identify key markets to better target customers.
+- Understand consumer behavior by analyzing product preferences across different states for targeted discounts.
+- Determine preferred payment methods used by customers.
 
--Determine preferred payment methods for transactions.
+💡 Insights Gained
+- Peak purchasing periods identified for strategic promotions.
+- Highest profit category found to be Technology.
+- Sales and profit analysis provided actionable insights for better decision-making.
+- Year-over-year trends in sales, profit, quantity, and orders visualized.
+- Top 10 subcategories ranked by total sales.
+- States with maximum sales and orders highlighted.
+- Seasonal trends observed to plan marketing and inventory strategies.
 
-## Insights Gained:
+📊 Tools Used
 
--Peak purchasing periods.
+Microsoft Excel (Pivot Tables, Charts, Conditional Formatting, and Dashboard Design)
 
--Highest profit categories, with a focus on 'Technology.'
+📁 Project Deliverable
+- Interactive Excel Dashboard File
+- Visuals for sales, profit, and order trends
+- Insights summary for decision-making
 
--Sales and profit analysis for informed decision-making.
+## 👩‍💻 Author
+**Rashmi Sharma**  
+📧 [Mail ID](rashusharma007@gmail.com)
 
--Year-over-year sales, profit, quantity, and order trends.
+🔗 [LinkedIn](www.linkedin.com/in/rashmi-sharma-11nv91)
 
--Top 10 subcategories by sales.
-
--States with the highest number of sales and orders.
-
--Seasonal sales trends.

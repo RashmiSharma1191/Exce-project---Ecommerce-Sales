@@ -32,7 +32,7 @@ Microsoft Excel (Pivot Tables, Charts, Conditional Formatting, and Dashboard Des
 
 ## 👩‍💻 Author
 **Rashmi Sharma**  
-📧 [Mail ID](rashusharma007@gmail.com)
+📧 [Mail ID](mailto:rashusharma007@gmail.com)
 
-🔗 [LinkedIn](www.linkedin.com/in/rashmi-sharma-11nv91)
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/rashmi-sharma-11nv91)
 
